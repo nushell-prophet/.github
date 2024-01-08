@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-It's an organization for collaborating on NuShell community projects that have not grown enough to be inside the NuShell org.
+It's an **unofficial organization** for collaborating on Nushell community projects that have not grown enough to be inside the NuShell organization. 
 
 I wanted to name it NuBieHub, but my marketing background insisted that including "Nushell" in the name is important.
 
