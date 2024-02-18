@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-This organization is a collection of Nushell-related projects by @maxim-uvarov. If ever those projects grow enough to migrate to the official Nushell organization, I would be happy to transfer them.
+This organization is a collection of Nushell-related projects by @maxim-uvarov. If ever those projects ever grow enough to migrate to the official Nushell organization, I would be happy to transfer them.
 
-I wanted to name it NuBieHub, but my marketing background insisted that including "Nushell" in the name is important. Hopefully, I got the energy to create and publish my educational materials on Nushell here. But as for now, there are only repositories with projects that I develop for my own usage, that I think might be useful for others too.
+I wanted to name it NuBieHub, but my marketing background insisted that including "Nushell" in the name is important. Hopefully, I will have the energy to create and publish my educational materials on Nushell here. But as for now, there are only repositories with projects that I develop for my own usage, that I think might be useful for others too.
 
 Nushell is awesome 🤘🚀
 
