@@ -6,6 +6,8 @@ I wanted to name this organization NuBieHub, but my marketing background insiste
 
 Nushell is awesome 🤘🚀
 
+P.S. All my works (including videos) are free from any license. I would love for them to be used and reused in any projects, free and commercial, open and closed source.
+
 <!--
 
 **Here are some ideas to get you started:**
