@@ -5,10 +5,10 @@ This organization is a collection of Nushell-related projects by amateur junior 
 
 I record videos about my uses of Nushell on YouTube: https://www.youtube.com/@nushell-prophet ;)
 
-I wanted to name this organization NuBieHub, but my marketing background insisted that including "Nushell" in the name is important.
+I wanted to name this organization NuBieHub, but my marketing background insisted that including "Nushell" in the name is important. And if one might ask, "Isn't 'nushell-prophet' too loud a nickname for an amateur junior developer?" I will answer, "I don't know. We have a chance to see it together."
 
 Nushell is awesome 🤘🚀
 
-P.S. All my works (including videos) are free from any license. I would love for them to be used and reused in any projects, free and commercial, open and closed source.
+P.S. All my works (including videos) are unlicensed. I would love for them to be used and reused in any projects, free and commercial, open and closed source.
 
 I would love it if any of my ideas were rewritten in .nu or implemented in Rust.
