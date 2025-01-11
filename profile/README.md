@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-This organization is a collection of Nushell-related projects by amateur junior developer [@maxim-uvarov](https://github.com/maxim-uvarov).
+
+This organization is a collection of Nushell-related projects by amateur junior developer [maxim-uvarov@github](https://github.com/maxim-uvarov) aka [nushell-prophet@github](http://github.com/nushell-prophet).
+
+I record videos about my uses of Nushell on YouTube: https://www.youtube.com/@nushell-prophet ;)
 
 I wanted to name this organization NuBieHub, but my marketing background insisted that including "Nushell" in the name is important.
 
