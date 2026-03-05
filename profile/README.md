@@ -9,6 +9,6 @@ I wanted to name this organization NuBieHub, but my marketing background insiste
 
 Nushell is awesome 🤘🚀
 
-P.S. All my works (including videos) are unlicensed. I would love for them to be used and reused in any projects, free and commercial, open and closed source.
+P.S. All my works (including videos) are unlicensed or under MIT. I would love for them to be used and reused in any projects, free and commercial, open and closed source.
 
 I would love it if any of my ideas were rewritten in .nu or implemented in Rust.
